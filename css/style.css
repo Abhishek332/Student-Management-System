@@ -1,0 +1,13 @@
+/* CSS Reset */
+*{
+    margin : 0;
+    padding : 0;
+    box-sizing : border-box;
+}
+
+#header{
+    color : white;
+    background-color : #555555;
+    padding : 0.5rem;
+    text-align : center;
+}
